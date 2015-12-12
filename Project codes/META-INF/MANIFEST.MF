@@ -1,0 +1,246 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/fonts/glyphicons-halflings-regular.svg
+SHA1-Digest: 3lGoSUGAptsHSvLe4jg/CjY8Wwg=
+
+Name: res/xml/config.xml
+SHA1-Digest: +3GazQPKGO1FQPP58Lc4omNs+2Y=
+
+Name: assets/www/img/drawable-hdpi/inspire.png
+SHA1-Digest: Sz90vzlXmvXjz06RSZEey9Side4=
+
+Name: assets/www/img/drawable-mdpi/rectangle-2.png
+SHA1-Digest: RZRmSV3JtU7p8dtypMgrHbF3YD8=
+
+Name: assets/www/img/drawable-hdpi/rectangle-2.png
+SHA1-Digest: wB7dHTmDc0oBAnJ/PM53GUfPZ7Q=
+
+Name: assets/www/img/drawable-mdpi/filter.png
+SHA1-Digest: +G5iQ/4C7uQ98E6NRXgvPqf/658=
+
+Name: assets/www/img/drawable-xhdpi/time.png
+SHA1-Digest: aoAs/LpgXJRWWB4MB4+7gxAqWa4=
+
+Name: assets/www/img/drawable-hdpi/user.png
+SHA1-Digest: TARy+6ErNgDIqWwwJ/jQpvKqsCE=
+
+Name: assets/www/img/drawable-xhdpi/message.png
+SHA1-Digest: Z0+Fi0Gt6Zl5wlr6nOBPRBcryhk=
+
+Name: assets/www/img/drawable-mdpi/user.png
+SHA1-Digest: p4LSKGlXFHGBeoECiFo0I6l+2O4=
+
+Name: assets/www/img/drawable-mdpi/message.png
+SHA1-Digest: 0Xy2mIv4u68roOKJbcXKB11p770=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 7k0R15Eowd7viwJeIN6gaJ1z0j0=
+
+Name: assets/www/img/drawable-xxhdpi/time.png
+SHA1-Digest: 7YYKrx/yrKGfIrZhLeOEfpyW3oQ=
+
+Name: assets/www/img/drawable-xxhdpi/location.png
+SHA1-Digest: 1dZYG2449Ej19BqnnK9CZt21/7Y=
+
+Name: assets/www/img/drawable-hdpi/activity.png
+SHA1-Digest: PdtWaSa1ORj4ty5zJ+MVnXkt1s0=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: V29pfkn63ZKvWbMehv1gXLydfEg=
+
+Name: assets/www/img/drawable-xxhdpi/map.png
+SHA1-Digest: Gdu1TYkexNfrVJO5PdEv1MNZmyw=
+
+Name: assets/www/css/bootstrap.css.map
+SHA1-Digest: hcrP2EpiWO0OGTh076Mch/hrnoc=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.ttf
+SHA1-Digest: RLwYUPVwlyJnsWmuGPHLBrYR/6I=
+
+Name: assets/www/js/bootstrap.js
+SHA1-Digest: jPQYbOhnd7S0CM4wjKn2bdQh9Qk=
+
+Name: assets/www/cordova.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: assets/www/css/bootstrap-theme.min.css
+SHA1-Digest: vLluMaK4/tVXWZX6DFgpPmSXIRY=
+
+Name: assets/www/img/drawable-hdpi/account.png
+SHA1-Digest: BNMAa6okRlcGhUUfxb61eX7uVts=
+
+Name: assets/www/css/bootstrap-theme.min.css.map
+SHA1-Digest: VSU79X6XTciQFOV3g6GkxzfnyGc=
+
+Name: assets/www/img/drawable-xxhdpi/filter.png
+SHA1-Digest: qStLt43UV6m7eh4EOBDajNtDhFw=
+
+Name: assets/www/index.html
+SHA1-Digest: fynwZc9g7ZPwXaCQhLxr/lm1Y1E=
+
+Name: assets/www/img/drawable-xxhdpi/inspire.png
+SHA1-Digest: c1Qg8KLt7KejbwJvTzMPZSm7r8E=
+
+Name: assets/www/img/drawable-mdpi/activity.png
+SHA1-Digest: 920fCZi4xYnAtLwKcsrlavnIsHE=
+
+Name: assets/www/img/drawable-xhdpi/location.png
+SHA1-Digest: 4Gsdpzxr98ptA5lbpZqF2kh8qiw=
+
+Name: assets/www/img/drawable-hdpi/filter.png
+SHA1-Digest: ZRuAo+BPfCdVW22KvtPhK6qanVc=
+
+Name: assets/www/img/drawable-hdpi/location.png
+SHA1-Digest: zPf4MhzN49AsuRt26JJ9iSkVuUc=
+
+Name: assets/www/img/1.jpg
+SHA1-Digest: ltxzsxsq0plW509Fqgx8gXlLcRA=
+
+Name: assets/www/css/bootstrap-theme.css.map
+SHA1-Digest: KdAZ3QB5KaV8VksrhXheThLljbI=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: Lw/SqxqQxDgeX1jWQ7pEzoJ873E=
+
+Name: assets/www/img/drawable-mdpi/account.png
+SHA1-Digest: FgaIEP8DxNCCoPd7cgNRliemOWM=
+
+Name: assets/www/img/drawable-xxhdpi/account.png
+SHA1-Digest: 9xBMKs9f2bqhPZtiQpII3MB70mY=
+
+Name: assets/www/img/drawable-xxhdpi/follow.png
+SHA1-Digest: 9QWqUMGryryjI3wGg9sxQ+ixu+Y=
+
+Name: resources.arsc
+SHA1-Digest: V9HH7yq/712ZNPcQdLb5CMs7ICk=
+
+Name: assets/www/img/drawable-hdpi/follow.png
+SHA1-Digest: 9zemiILq3g8awY7nCRU+2Mwj5cM=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.woff2
+SHA1-Digest: yjW2l9mcrk0bYPLWD803dxmH6wc=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: assets/www/img/drawable-xxhdpi/join.png
+SHA1-Digest: P8roOrcconH7f8Moa6zFrgaynig=
+
+Name: assets/www/img/drawable-hdpi/time.png
+SHA1-Digest: Z2MoqgLdk6X5lhLdQ3BCPYUmgVc=
+
+Name: assets/www/img/drawable-xxhdpi/message.png
+SHA1-Digest: ZnZYlmEMbmV19VhcgxAuHMOSGeU=
+
+Name: assets/www/img/drawable-xhdpi/activity.png
+SHA1-Digest: fmRWrzdd/aJiKi683C9kOR6zlK0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 44dFmR+Kz5j/wGYlKmutIkYquos=
+
+Name: assets/www/img/drawable-mdpi/follow.png
+SHA1-Digest: 0R3ivFik8CG6qSlMDupHW2/R37M=
+
+Name: assets/www/img/drawable-hdpi/message.png
+SHA1-Digest: 75cTda7qGnGjPOJmuwZnwW/QMD0=
+
+Name: assets/www/img/drawable-xxhdpi/home.png
+SHA1-Digest: gRh5xvgtp775Z1Hn15JKcddktgw=
+
+Name: assets/www/img/drawable-xhdpi/rectangle-2.png
+SHA1-Digest: U5PaWRp7k9rTX7p4mUN4ORDmJU0=
+
+Name: assets/www/js/npm.js
+SHA1-Digest: 4rdZDW7B/axmsB/fZq4IefU7EmI=
+
+Name: assets/www/img/drawable-xhdpi/account.png
+SHA1-Digest: kNcMq4ClPqkjYdV+56t1CpRAlyg=
+
+Name: assets/www/img/drawable-xxhdpi/rectangle-2.png
+SHA1-Digest: DvYJOS+VsRjpkli+CZQD2wq8R2w=
+
+Name: assets/www/img/drawable-xhdpi/home.png
+SHA1-Digest: L/xYv1rHTGTqwFyoNG4gEBHyRQg=
+
+Name: assets/www/img/drawable-xhdpi/user.png
+SHA1-Digest: 9TGOhWwOFI8ZI09qHbaBzGGG1d4=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.woff
+SHA1-Digest: J45JqG5jTabyoC87R92dKo8mIQ8=
+
+Name: assets/www/img/drawable-xhdpi/map.png
+SHA1-Digest: NpWG5nEa98C5AMeo8Ku/j9XHDoE=
+
+Name: assets/www/img/drawable-mdpi/join.png
+SHA1-Digest: +utWGjuWY9eJyFCMj6pSAao7O8k=
+
+Name: assets/www/js/bootstrap.min.js
+SHA1-Digest: eRqgVKAmvdwN6SutbPehxuc3E9U=
+
+Name: assets/www/img/drawable-hdpi/join.png
+SHA1-Digest: XsCqY+C6ccSP13BEojMudWZ/rDE=
+
+Name: assets/www/img/drawable-hdpi/home.png
+SHA1-Digest: ptq6RDZScST687G+wgNQSNxWe6c=
+
+Name: assets/www/css/bootstrap.min.css
+SHA1-Digest: jrF2xwuc+mhxt21tyY+1Jufps94=
+
+Name: assets/www/css/bootstrap.min.css.map
+SHA1-Digest: lfude4O+vJw3zv7odRT1l57oeF0=
+
+Name: assets/www/img/aa
+SHA1-Digest: 9G2Ypt3nrNvT0lR0oE94I6ozHUQ=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.eot
+SHA1-Digest: hrb2K3hT5n0+Y19lEqWl78WOo8M=
+
+Name: assets/www/img/drawable-hdpi/map.png
+SHA1-Digest: cUZu8CHrpHkgrITGv9iXDvHKZXM=
+
+Name: assets/www/css/bootstrap-theme.css
+SHA1-Digest: bD8Ml6XH4e9kU9a2TodbXrFB05c=
+
+Name: classes.dex
+SHA1-Digest: 7f8hMBlSdnY/+cKmNBHqN/7z428=
+
+Name: assets/www/img/drawable-xxhdpi/user.png
+SHA1-Digest: hOStaLASxpOaBoFasVuNThrAADU=
+
+Name: assets/www/img/drawable-mdpi/inspire.png
+SHA1-Digest: 3ohEscQYHnZO/2D6f2Y52nFj25Y=
+
+Name: assets/www/img/drawable-mdpi/home.png
+SHA1-Digest: Z6fJELQkMRawXoleGewvZnt1d7o=
+
+Name: assets/www/img/drawable-xhdpi/inspire.png
+SHA1-Digest: ai2nooUD6TdIcS6tM/kFV8fMlHQ=
+
+Name: assets/www/img/drawable-mdpi/time.png
+SHA1-Digest: lE7wx1B0NsJINOkvm2C0rEs/Hig=
+
+Name: assets/www/css/bootstrap.css
+SHA1-Digest: Qxbc+1ThsKQo4dNyA6QCj9BAgpg=
+
+Name: assets/www/img/drawable-mdpi/location.png
+SHA1-Digest: 68/TNaEokzSzqecz06Kv5M+SipY=
+
+Name: assets/www/img/drawable-xxhdpi/activity.png
+SHA1-Digest: gany+JOQrH+zuKPadiiLQE7jq70=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: 2J9Tvy/YaxPRs/ZafKZe/EsVt/o=
+
+Name: assets/www/img/drawable-mdpi/map.png
+SHA1-Digest: Hko/6VVzQ4jj/KA2WUmmqX6EQ5A=
+
+Name: assets/www/img/drawable-xhdpi/follow.png
+SHA1-Digest: KLqDCEuXnbcXmAGyZZjC92UpY0w=
+
+Name: assets/www/img/drawable-xhdpi/filter.png
+SHA1-Digest: o/aOaLBRa845ljFd27q/DWaH200=
+
+Name: assets/www/img/drawable-xhdpi/join.png
+SHA1-Digest: 55tOSNWc3A5v0557nxvWVstpi2Q=
+
